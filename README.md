@@ -1,2 +1,2 @@
-# Wordle-MCM
-MCM 2023 Submission
+# Predicting Wordle results
+## Please refer to final_paper.pdf for our final results
