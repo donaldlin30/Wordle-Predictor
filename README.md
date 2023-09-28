@@ -9,7 +9,7 @@ The project is divided into two main parts:
 2. **Gameplay Simulation:** Development of a predictive model that simulates Wordle gameplay in hard mode, utilizing Monte-Carlo methods for accuracy and consistency.
 
 ## 🔍 Key Insights
-- The exponential regression model, expressed as \(y(t) = 292004 \cdot e^{-0.01724t} + 18000\), was identified as the most accurate for predicting the number of reported results over time.
+- The exponential regression model, expressed as y(t) = 292004 * e^{-0.01724t} + 18000, was identified as the most accurate for predicting the number of reported results over time.
 - The word "EERIE" was categorized as relatively hard, with a predicted score distribution of (0.0, 0.2, 6.1, 31.2, 43.8, 16.0, 7.0) for March 1st, 2023.
 - Challenging words typically contain duplicate and rare letters, and a word's difficulty level does not influence the number of submissions in hard mode.
 
