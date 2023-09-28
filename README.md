@@ -1,7 +1,7 @@
-# WordlePredictiveInsights
+# Wordle-Predictor
 
 ## Overview
-WordlePredictiveInsights is an intricate project developed to harness the extensive user-generated data from the popular social media game, Wordle. The project aims to develop predictive models and extract valuable insights into various factors influencing the game's score distribution, reported results, and the difficulty of word solutions.
+Wordle-Predictor is an intricate project developed to harness the extensive user-generated data from the popular social media game, Wordle. The project aims to develop predictive models and extract valuable insights into various factors influencing the game's score distribution, reported results, and the difficulty of word solutions.
 
 ## 📘 Project Structure
 The project is divided into two main parts:
